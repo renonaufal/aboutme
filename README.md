@@ -1,19 +1,12 @@
 # Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+Halo, nama saya Reno Naufal Maulidyan. Saya saat ini sedang menempuh pendidikan S1 di Universitas Pembangunan Nasional "Veteran" Jawa Timur, program studi Informatika.
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+#### 1. [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://www.upnjatim.ac.id) | S! Informatika |`
+
+ #### 2. [SMK Negeri Gudo](https://www.smkngudo.sch.id) | Teknik Komputer dan Jaringan`
    - Chief of Rohkris
 
 ## Work Experience:
