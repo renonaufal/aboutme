@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Halo semua, saya Reno [renonaufal](https://www.instagram.com/renonaufal) 👋
 ## About me:
 Halo, nama saya Reno Naufal Maulidyan. Saya saat ini sedang menempuh pendidikan S1 di Universitas Pembangunan Nasional "Veteran" Jawa Timur, program studi Informatika.
 
